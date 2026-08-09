@@ -24,11 +24,11 @@ This project analyzes crop loss severity across Florida counties by combining fl
 
 flood-related-crop-losses/
 ├─ data/
-│  ├─ florida_flood(in).csv     
-│  ├─ practice_by_county_2d_acres_clusters.csv          
-│  ├─ practice_by_county_5d_clusters.csv   
+│  ├─ florida_flood(in).csv
+│  ├─ practice_by_county_2d_acres_clusters.csv
+│  ├─ practice_by_county_5d_clusters.csv
 │  ├─ practice_by_county_final_with_clusters.csv
-│  └─ practice_by_county_final(in).csv 
+│  └─ practice_by_county_final(in).csv
 │
 ├─ scripts/
 │  ├─ 1d_analysis/
