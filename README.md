@@ -60,7 +60,7 @@ Flood event data was obtained from the Dartmouth Flood Observatory (DFO) and cro
 ### 2. 1D Clustering (`scripts/1d_analysis/`)
 Clusters counties by total crop indemnity alone (k=3) to identify low/moderate/high loss severity tiers, then identifies which commodities (crop types) drive losses in high-tier counties. 
 
-### 3. 2D Clustering (`scripts/2d_analysis\`)
+### 3. 2D Clustering (`scripts/2d_analysis/`)
 Clusters counties using both total indemnity and damaged acreage, revealing two distinct loss profiles: high-value and low-acreage vs. widespread and low-intensity damage. 
 
 ### 4. 5D Clustering (`scripts/5d_analysis/`)
