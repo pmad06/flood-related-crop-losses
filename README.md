@@ -12,13 +12,16 @@ This project analyzes crop loss severity across Florida counties by combining fl
 
 ### Clone the repository
 
-- git clone https://github.com/pmad06/flood-related-crop-losses
-- cd flood-related-crop-losses
-
+```
+git clone https://github.com/pmad06/flood-related-crop-losses
+cd flood-related-crop-losses
+```
 
 ### Install dependencies
 
-- pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 ## Repository Structure
 
