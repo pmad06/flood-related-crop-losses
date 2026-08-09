@@ -22,6 +22,7 @@ This project analyzes crop loss severity across Florida counties by combining fl
 
 ## Repository Structure
 
+```
 flood-related-crop-losses/
 ├─ data/
 │  ├─ florida_flood(in).csv
@@ -46,6 +47,7 @@ flood-related-crop-losses/
 │
 ├─ requirements.txt
 └─ README.md
+```
 
 ## Workflow Description 
 
