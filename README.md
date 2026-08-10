@@ -79,4 +79,4 @@ Expands clustering to five variables: indemnity, damaged acres, percent irrigate
 
 ## Acknowledgements 
 
-This work was completed as part of the Active Learning (ALP) in collaboration with Professor Nasser Najibi, University of Florida, Summer 2026. 
+This work was completed as part of the Active Learning Program (ALP) in collaboration with Professor Nasser Najibi, University of Florida, Summer 2026. 
