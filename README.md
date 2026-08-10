@@ -69,7 +69,7 @@ Expands clustering to five variables: indemnity, damaged acres, percent irrigate
 ## Usage Notes and Limitations 
 
 - This analysis provides county-level aggregated estimates, rather than farm-level losses.
-- Input data reflects/insured losses only.
+- Input data reflects insured losses only.
 - Not intended for real-time flood damage prediction.
 
 ## Data Sources & Citation 
